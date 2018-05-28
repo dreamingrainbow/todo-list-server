@@ -1,0 +1,30 @@
+{
+  "name": "todo-list-server",
+  "version": "1.0.0",
+  "description": "A simple todo list api server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamingrainbow/todo-list-server.git"
+  },
+  "keywords": [
+    "React",
+    "Express",
+    "NodeJs",
+    "Beginner"
+  ],
+  "author": "michaeladennis@yahoo.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreamingrainbow/todo-list-server/issues"
+  },
+  "homepage": "https://github.com/dreamingrainbow/todo-list-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
