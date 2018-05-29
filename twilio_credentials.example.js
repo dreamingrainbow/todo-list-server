@@ -1,0 +1,4 @@
+module.exports = {
+    acount_sid : 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+    auth_token : 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+}
